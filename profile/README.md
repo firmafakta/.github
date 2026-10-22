@@ -12,4 +12,6 @@ from your AI assistant.
 - [Pricing](https://firmafakta.se/en/priser/) · [Privacy](https://firmafakta.se/en/integritet/) ·
   [Terms](https://firmafakta.se/en/villkor/)
 
-Run by Agiletto AB, Gothenburg. Questions: support@firmafakta.se
+
+
+Questions: support@firmafakta.se
