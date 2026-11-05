@@ -1,4 +1,7 @@
-<img src="https://firmafakta.se/icon.svg" alt="" width="64" height="64">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
+  <img src="logo.svg" alt="Firmafakta" width="320">
+</picture>
 
 # Firmafakta
 
